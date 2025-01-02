@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe927caf.css",
+    "main.js": "/static/js/main.fa391baf.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/anas_aljabri.jpg": "/static/media/anas_aljabri.0982faa10244808fc011.jpg",
+    "static/media/Anas_AlJabri_Resume01_2025.pdf": "/static/media/Anas_AlJabri_Resume01_2025.72700302da51cd26b8da.pdf",
+    "static/media/zenmonics.png": "/static/media/zenmonics.85b29cf359adc856ae52.png",
+    "static/media/amazon.png": "/static/media/amazon.17e200b8aa088b1cb605.png",
+    "static/media/corevalue.png": "/static/media/corevalue.8da7925911ec029308d5.png",
+    "static/media/Infosys_logo.png": "/static/media/Infosys_logo.c75c471d70bb3d9eb7fb.png",
+    "index.html": "/index.html",
+    "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
+    "main.fa391baf.js.map": "/static/js/main.fa391baf.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.fa391baf.js"
+  ]
+}
