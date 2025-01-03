@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fe927caf.css",
-    "main.js": "/static/js/main.fa391baf.js",
+    "main.js": "/static/js/main.32bd3537.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/anas_aljabri.jpg": "/static/media/anas_aljabri.0982faa10244808fc011.jpg",
     "static/media/Anas_AlJabri_Resume01_2025.pdf": "/static/media/Anas_AlJabri_Resume01_2025.72700302da51cd26b8da.pdf",
@@ -11,11 +11,11 @@
     "static/media/Infosys_logo.png": "/static/media/Infosys_logo.c75c471d70bb3d9eb7fb.png",
     "index.html": "/index.html",
     "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
-    "main.fa391baf.js.map": "/static/js/main.fa391baf.js.map",
+    "main.32bd3537.js.map": "/static/js/main.32bd3537.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.fa391baf.js"
+    "static/js/main.32bd3537.js"
   ]
 }
